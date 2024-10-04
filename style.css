@@ -12,6 +12,7 @@ body {
     width: 35%;
     top: 10%;
     backdrop-filter: blur(10px);
+    padding: 20px;
 }
 
 .option2{
@@ -23,4 +24,5 @@ body {
     width: 35%;
     top: 10%;
     backdrop-filter: blur(10px);
+    padding: 20px;
 }
